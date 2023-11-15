@@ -1,0 +1,6 @@
+Which of the following operator can be overloaded?
+A. (scope resolution)
+B. (member selection)
+--C. += (shorthand assignment) --
+D. * (member selection through pointer to function)
+E. sizeof(datatype)      

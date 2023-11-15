@@ -1,0 +1,14 @@
+#include<iostream>
+Class Example{
+Public: int a;
+Void add(Example E){
+ a = a+E.a;
+  }
+};
+int main(){
+Example E1,E2;
+E1.a=5;
+E2.a=10;
+E2.add(E1);
+Cout<<E1.a<<E2.a<<”\n”;
+}

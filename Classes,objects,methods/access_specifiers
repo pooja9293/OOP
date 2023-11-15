@@ -1,0 +1,11 @@
+#include<iostream>
+Class myClass{
+Public: int x;
+Private: int y;
+};
+Int main(){
+myclass myObj;
+myObj.x=5;
+myObj.y=5;//Error: y is private
+return 0;
+}

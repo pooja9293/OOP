@@ -1,0 +1,5 @@
+Which of the following operator cannot be overloaded?
+A. >=
+B. <=
+-- C.  ?: --
+D. *
